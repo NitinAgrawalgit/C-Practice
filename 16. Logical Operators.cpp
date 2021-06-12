@@ -8,7 +8,7 @@ int main()
 	printf("C provides three Logical Operators, \nLogical AND, Logical OR, Logical NOT\n\n");
 	printf("Logical AND returns a 1 if and only if both operands are 1\n");
 	printf("Logical OR  returns a 1 if any of the both operands is 1\n");
-	printf("Logical NOT returns a 1 only if the operand is \n\n");
+	printf("Logical NOT returns a 1 only if the operand is 0\n\n");
 	printf("For Example:- \n\n");
 	
 	printf("Enter a number a: ");
