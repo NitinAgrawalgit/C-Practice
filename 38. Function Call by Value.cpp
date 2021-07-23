@@ -1,6 +1,6 @@
 #include <stdio.h>
 //This program was developed by Nitin Agrawal
-//Date: 25th July, 2021
+//Date: 18th July, 2021
 //Objective: Demonstrate call by value of a function
 
 void triprint(int); //Function declaration
